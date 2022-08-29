@@ -18,7 +18,7 @@ East lies the human kingdom of Breanne. Breanne is a feudal nation ruled by a Ki
 The lands south of Sheercleft are wild and untamed. Orc tribes, giantkin and other menaces roam these frigid stormy mountains and far to the south wild human barbarians raid the coastline.
 
 **Status:** Ongoing<br>
-**System:** [StormchaserRPG](https://stormchaserroleplaying.com/stormchaserRPG/)<br>
+**System:** [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)<br>
 **Start Date:** 9th of August, 2018<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1peW8YgN3s2ByIn5E2UX_gbuOIx5VlfRc1F7WYTVH-7I/edit#gid=1756785175)<br>
 **Threads:**
