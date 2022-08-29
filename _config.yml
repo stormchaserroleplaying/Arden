@@ -1,0 +1,8 @@
+title: The Chronicles of Arden
+description: The official source for the Arden campaign setting.
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+logo: Arden-Logo.png
+aux_links:
+  "Stormchaser Roleplaying":
+    - "https://stormchaserroleplaying.com"
