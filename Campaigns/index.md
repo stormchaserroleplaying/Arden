@@ -1,7 +1,6 @@
 ---
 title: Arden Campaigns
-nav_order: 1
-parent: The Chronicles of Arden
+nav_order: 2
 has_children: true
 ---
 
