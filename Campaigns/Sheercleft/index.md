@@ -17,13 +17,22 @@ East lies the human kingdom of Breanne. Breanne is a feudal nation ruled by a Ki
 
 The lands south of Sheercleft are wild and untamed. Orc tribes, giantkin and other menaces roam these frigid stormy mountains and far to the south wild human barbarians raid the coastline.
 
+**Status:** Ongoing<br>
+**System:** [StormchaserRPG](https://stormchaserroleplaying.com/stormchaserRPG/)<br>
+**Start Date:** 9th of August, 2018<br>
+[**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1peW8YgN3s2ByIn5E2UX_gbuOIx5VlfRc1F7WYTVH-7I/edit#gid=1756785175)<br>
 **Threads:**
-  - [Sheercleft](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/22396-the-chronicles-of-arden-sheercleft)
-  - [Sheercleft - Homecoming](https://discord.com/channels/476843342001602570/985843959819546624)
+- [The Chronicles of Arden: Sheercleft](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/22396-the-chronicles-of-arden-sheercleft)
+- [Sheercleft - Homecoming](https://discord.com/channels/476843342001602570/985843959819546624)
 
 ## Guard Duty
 The rural mining village of Sheercleft in the Ice Cap Peaks was recently occupied by a goblin army under the leadership of the fearsome Warlord Kung. Thanks to the courage and skill of a band of local heroes, the goblins and their allies, a cabal of wizards whispered to be named the Mabinogi, have since been driven off into the mountains. However, for the inhabitants of Sheercleft, this is only the beginning. The village must be rebuilt and fortified against other threats and trade routes must be reopened if the the mines are to flourish.
 
 Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant caravan to travel south-east to the duchy of Quenlan in the neighbouring kingdom of Breanne. The 300 mile journey will see the caravan traversing mountain trails and dark forest, before the road finally reaches the relative safety of Breannian farmlands. Those who attempt the venture will need stout hearts and steady nerves if they are to be successful, but amongst mountain men neither are in short supply.
 
+**Status:** Complete
+**System:** [Dungeon World](https://stormchaserroleplaying.com/DungeonWorld/)<br>
+**Start Date:** 8th of May, 2021<br>
+**End Date:** 13th of Juley, 2021<br>
+[**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1jpbSNhuzfnxVAY6fNwtTeC7xL4BOOOFSAco_mFCMl_M/edit#gid=0)<br>
 **Thread:** [Sheercleft - Guard Duty](https://discord.com/channels/476843342001602570/840335141308989491)
