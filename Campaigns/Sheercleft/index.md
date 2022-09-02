@@ -21,7 +21,7 @@ The rural mining village of Sheercleft in the Ice Cap Peaks was recently occupie
 
 Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant caravan to travel south-east to the duchy of Quenlan in the neighbouring kingdom of Breanne. The 300 mile journey will see the caravan traversing mountain trails and dark forest, before the road finally reaches the relative safety of Breannian farmlands. Those who attempt the venture will need stout hearts and steady nerves if they are to be successful, but amongst mountain men neither are in short supply.
 
-**Status:** Complete
+**Status:** Complete<br>
 **System:** [Dungeon World](https://stormchaserroleplaying.com/DungeonWorld/)<br>
 **Start Date:** 8th of May, 2021<br>
 **End Date:** 13th of Juley, 2021<br>
