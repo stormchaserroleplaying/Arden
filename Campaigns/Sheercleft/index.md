@@ -24,6 +24,6 @@ Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant cara
 **Status:** Complete<br>
 **System:** [Dungeon World](https://stormchaserroleplaying.com/DungeonWorld/)<br>
 **Start Date:** 8th of May, 2021<br>
-**End Date:** 13th of Juley, 2021<br>
+**End Date:** 13th of July, 2021<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1jpbSNhuzfnxVAY6fNwtTeC7xL4BOOOFSAco_mFCMl_M/edit#gid=0)<br>
 **Thread:** [Sheercleft - Guard Duty](https://discord.com/channels/476843342001602570/840335141308989491)
