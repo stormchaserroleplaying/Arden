@@ -2,6 +2,7 @@
 title: Hunters
 nav_order: 2
 parent: Arden Campaigns
+has_children: true
 ---
   
 # Hunters
