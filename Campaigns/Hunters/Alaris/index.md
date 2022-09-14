@@ -1,5 +1,5 @@
 ---
-title: Alaris
+title: Alaris Forien
 parent: Hunters
 grand_parent: Arden Campaigns
 ---

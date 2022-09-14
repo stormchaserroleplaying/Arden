@@ -1,5 +1,5 @@
 ---
-title: Caio
+title: Caio Cypherien
 parent: Hunters
 grand_parent: Arden Campaigns
 ---
