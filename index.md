@@ -1,6 +1,6 @@
 ---
 title: The Chronicles of Arden
-nav_order: 1
+nav_exclude: true
 ---
 
 # The *Arden* Campaign Setting
