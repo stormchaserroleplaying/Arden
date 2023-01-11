@@ -1,6 +1,6 @@
 ---
 title: Ryuzuko
-parent: Jedahn
+parent: Je'dahn
 grand_parent: Arden Campaigns
 ---
   
