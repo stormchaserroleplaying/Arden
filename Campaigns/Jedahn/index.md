@@ -2,6 +2,7 @@
 title: Je'dahn
 nav_order: 3
 parent: Arden Campaigns
+has_children: true
 ---
   
 # Je'dahn
