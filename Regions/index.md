@@ -6,17 +6,17 @@ nav_order: 3
 
 # Regions
 
-* The plains of **Ardath** are a vest steppe inhabited by nomadic tribes of barbarians. **Touchstone:** Mongolia.
+* The plains of **Ardath** are a vest steppe inhabited by nomadic tribes of barbarians.<br>**Touchstone:** Mongolia.
 
-* **Breanne** is a predominantly human and strongly religious kingdom. **Touchstone:** Western Europe.
+* **Breanne** is a predominantly human and strongly religious kingdom.<br>**Touchstone:** Western Europe.
 
 * The forest of **Eldren** is home to the treetop kingdom of the Eldrani elves, famed for their craft and artistry.
 
-* The states of **Hellenia** are a loose association of feuding free cities. **Touchstone:** Ancient Greece.
+* The states of **Hellenia** are a loose association of feuding free cities.<br>**Touchstone:** Ancient Greece.
 
-* The rural province of **Hong** is a subject to its overlord Ming in the Hongming Union. **Touchstone:** Indochina.
+* The rural province of **Hong** is a subject to its overlord Ming in the Hongming Union.<br>**Touchstone:** Indochina.
 
-* The island nation of **Je'dahn** is a land of feudal lords, warrior nobles and fishermen. **Touchstone:** Japan.
+* The island nation of **Je'dahn** is a land of feudal lords, warrior nobles and fishermen.<br>**Touchstone:** Japan.
 
 * **Khazak Ankor** is a partially subterranean mountain nation of technologically advanced dwarves.
 
@@ -26,17 +26,17 @@ nav_order: 3
 
 * The enigmatic continent of **Necorath** is mostly frozen and inhabited by elves who live under a purple sun.
 
-* **Norsca** is a frozen archipelago inhabited by eleven clans of seafaring raiders. **Touchstone:** Scandinavia.
+* **Norsca** is a frozen archipelago inhabited by eleven clans of seafaring raiders.<br>**Touchstone:** Scandinavia.
 
-* The wealthy **Ming** province of the Hongming Union is amidst a cultural boom. **Touchstone:** Southern China.
+* The wealthy **Ming** province of the Hongming Union is amidst a cultural boom.<br>**Touchstone:** Southern China.
 
-* The fertile province of **Rajan** is a culturally diverse subject of the Sarameian Empire.**Touchstone:** India.
+* The fertile province of **Rajan** is a culturally diverse subject of the Sarameian Empire.<br>**Touchstone:** India.
 
-* The province of **Saramei** is the seat of the Sarameian Empire's imperial city. **Touchstone:** Ottoman Empire.
+* The province of **Saramei** is the seat of the Sarameian Empire's imperial city.<br>**Touchstone:** Ottoman Empire.
 
-* The heavily forested province of **Tanem** is the newest Sarameian conquest. **Touchstone:** Eastern Europe.
+* The heavily forested province of **Tanem** is the newest Sarameian conquest.<br>**Touchstone:** Eastern Europe.
 
-* The Sarameian province of **Xingong** is the gateway for trade from the west. **Touchstone:** Northern China
+* The Sarameian province of **Xingong** is the gateway for trade from the west.<br>**Touchstone:** Northern China
 
 ## Ardath
 The great plains of **Ardath** form a swathe of temperate grassland that stretches almost two-thousand miles from the Dwarven frontier of Debgazan in the east to the scorching Ardathian badlands in the west. The native barbarians live in nomadic, tribes scattered across the steppes and occasionally venture south across the mountains of the Great Barrier Range to raid the borders of the Sarameian Empire. So far, the arduous terrain has been enough to dissuade imperial 'pacification'.
@@ -82,4 +82,4 @@ The seat of the **Sarameian Empire's** imperial city, Saramei is the oldest and 
 ## Tanem
 The youngest acquisition of the Sarameian Empire, **Tanem** is
 
-### Xingong
+## Xingong
