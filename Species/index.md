@@ -33,7 +33,7 @@ nav_order: 2
 
 * **Goblins** are short, ugly humanoids with scrawny bodies topped with oversized heads and massive ears.
 
-## Planetouched
+## Extraplanar Bloodlines
 * **Aasimar** have celestial blood, which gives them shining metallic hair, jewel-like eyes and lustrous skin.
 
 * **Ifrit** blood burns with elemental fire, giving them reddened colouring and hair that flickers as if aflame.
