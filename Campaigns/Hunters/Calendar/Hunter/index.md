@@ -1,9 +1,9 @@
 # Devan (Hunter), 1018
 
-### 3rd
+## Wodensday, the 3rd
 The Trio Infernale (Shivala, Ling and Nikolai), Alaris and Caio gather at the Das Schwarze Schaf to celebrate Shiva's coming birthday.
 
-### 4th
+## Thorsday, the 4th
 Astrid was awoken in the middle of the night, recieving some push from her patron, Dugmaren Brightmantle, to seek out the cause to some disturbance in the flux of time. The cleric sniffs out the cause of the disturbance, leading her to Das Schwarze Schaf. She joins the group of adventurers in the revelry, which is soon relocated to a differnet tavern, Temnitsa, in the catacobms beneath Pitrograd. After some merriment together, Shiva, Ling and Caio wander off to enjoy other distractions the club has to offer.
 
 Shiva meets The Mistress, and is marked by the vampire... Ling shares a dance with a half-elf by the name of Jonathon Morgenstern. He asks for help in bringing his father down... Astrid overhears some plot of innvasion on the border with Littlewood.
