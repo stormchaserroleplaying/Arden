@@ -29,6 +29,8 @@ nav_order: 2
 * **Orcs** are tall, muscular humanoids, with dull green skin, coarse dark hair and protruding, tusk-like teeth.
 
 ## Beastkin
+* **Bearfolk**
+
 * **Birdfolk** are avian humanoids whose features strongly resemble crows. They have powerful beaks and talons.
 
 * **Catfolk** are lithe and slender humanoids with feline features, such as a coat of fur, slit pupils and a tail. 
