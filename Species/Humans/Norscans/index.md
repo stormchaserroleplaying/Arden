@@ -9,7 +9,7 @@ Norscans are a phenotype of touch and powerfully built humans that hail from fro
 
 As a Norscan, you have the following special features:
 
-## Ability Score Increase
+## Attribute Score Increase
 You must pick Strength and Constitution as your species attribute score increases.
 
 ## Frost Born
