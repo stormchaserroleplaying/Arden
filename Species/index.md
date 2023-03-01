@@ -50,7 +50,7 @@ nav_order: 2
 
 * **Minotaurs** are barrel-chested humanoids standing well over six feet with heads resembling those of bulls.
 
-* **Ratfolk**  are small, rodent-like humanoids; originally native to subterranean areas in dry deserts and plains.
+* **Ratfolk** are small, rodent-like humanoids; originally native to subterranean areas in dry deserts and plains.
 
 * **Snakefolk**
 
