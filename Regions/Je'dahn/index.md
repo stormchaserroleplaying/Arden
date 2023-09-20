@@ -16,7 +16,7 @@ You have trained proficiency with [calligrapher's supplies](https://stormchaserr
 ### Languages
 You speak, read and write Je'dahnian with native proficiency.
 
-Choose Honmin, Xingonese, or Rajani. You speak, read and write this language with accented proficiency.
+Choose Honmin, Xingongese, or Rajani. You speak, read and write this language with accented proficiency.
 
 Choose one other language of your choice. You speak, read and write this language with accented proficiency.
 
