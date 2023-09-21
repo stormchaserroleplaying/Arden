@@ -7,6 +7,10 @@ parent: Regions
 
 ## Norscan Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
+### Alignment
+
+### Features
+
 ### Languages
 You speak, read and write Norscan with native proficiency.
 

@@ -8,6 +8,10 @@ The seat of the **Sarameian Empire's** imperial city, Saramei is the oldest and 
 
 ## Sarameian Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
+### Alignment
+
+### Features
+
 ### Languages
 You speak, read and write Sarameian with native proficiency.
 

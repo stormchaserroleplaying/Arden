@@ -7,6 +7,10 @@ parent: Regions
 
 ## Honmin Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
+### Alignment
+
+### Features
+
 ### Languages
 You speak, read and write Honmin with native proficiency.
 
