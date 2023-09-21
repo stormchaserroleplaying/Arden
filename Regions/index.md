@@ -52,12 +52,6 @@ The vast forest of **Eldren** is the sovereign kingdom of the elves. Surrounded 
 ## Hellenia
 The states of **Hellenia** are a loose association of free cities scattered along the coast of a balmy, but arid region. Hellenia's major trade partners are Breanne to the south across the Hellenian Gulf and the dwarves to the west across the Hellenian Savanna. The northern reaches of the savanna eventually give way to the dense jungle of Lelistrel rainforest. The Hellenians are a hedonistic and carefree people, who put great value in their freedom from the oppression of larger powers. In fact, the threat of such an oppressor is one of the few things known to cause various city states to stop squabbling and unite against a common enemy.
 
-## Hong
-
-
-## Je'dahn
-
-
 ## Khazak Ankor
 The dwarven nation of **Khazak Ankor** is
 
@@ -69,15 +63,12 @@ The republic of **Littlewood** is Adrianus's youngest nation and was founded by 
 
 ## Necorath
 
-## Norsca
 
 ## Ming
 
+
 ## Rajan
 Although steeped in its own history, **Rajan** is well known as the first province to have been annexed by the Sarameian Empire.
-
-## Saramei
-The seat of the **Sarameian Empire's** imperial city, Saramei is the oldest and most influential province in the empire.
 
 ## Tanem
 The youngest acquisition of the Sarameian Empire, **Tanem** is

@@ -1,9 +1,9 @@
 ---
-title: The Hong-Ming Union
+title: Hong
 parent: Regions
 ---
 
-# The Hong-Ming Union
+# Hong
 
 ## Honmin Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 

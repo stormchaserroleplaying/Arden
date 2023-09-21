@@ -4,6 +4,7 @@ parent: Regions
 ---
 
 # Saramei
+The seat of the **Sarameian Empire's** imperial city, Saramei is the oldest and most influential province in the empire.
 
 ## Sarameian Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
