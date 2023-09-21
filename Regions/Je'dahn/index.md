@@ -26,5 +26,3 @@ Once you've used this feature, you cannot use it again until you finish a short 
 You speak, read and write Je'dahnian with native proficiency.
 
 Choose Honmin, Xingongese, or Sanskrit. You speak, read and write this language with accented proficiency.
-
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.

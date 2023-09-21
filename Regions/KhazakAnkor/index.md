@@ -28,8 +28,6 @@ You’re acclimated to high and low altitudes, including elevations above 20,000
 ### Languages
 You speak, read and write either Khazalid or Gnomish with native proficiency and the other with accented proficiency.
 
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.
-
 Khazalid is full of hard consonants and guttural sounds. These characteristics spill over into whatever other languages a Khazalid native speaker might speak.
 
 The Gnomish language, which uses the Klinkarhun script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.

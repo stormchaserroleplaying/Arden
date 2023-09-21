@@ -25,6 +25,4 @@ Through sounds and gestures, you can communicate simple ideas with small or smal
 ### Languages
 You speak, read and write either Eldrani or Sylvan with native proficiency and the other with accented proficiency.
 
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.
-
 Eldrani is fluid, with subtle intonations and intricate grammar. Eldrani literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Eldrani ballads to their repertoires.

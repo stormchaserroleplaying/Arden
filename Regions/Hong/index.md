@@ -15,5 +15,3 @@ parent: Regions
 You speak, read and write Honmin with native proficiency.
 
 Choose Ardathian, Je'dahnian, Necran, or Xingongese. You speak, read and write this language with accented proficiency.
-
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.
