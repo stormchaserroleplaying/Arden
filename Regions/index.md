@@ -46,14 +46,8 @@ The predominantly human kingdom of **Breanne** is the dominant force in south-ea
 
 Breanne is a feudal kingdom, divided into the duchies of Aethelyard, Beaufort, Camwen, Quenlan, Radbourne and Shamley. Much like the nations of western Europe on Earth, each has its own unique culture, which has grown alongside the others for centuries. The knights of each duchy are responsible for the wellbeing of their lands, each sworn to this duty in the name of Brigantia, the Lady of the river, the primary deity worshipped in Breanne.
 
-## Eldren
-The vast forest of **Eldren** is the sovereign kingdom of the elves. Surrounded by the mountains of their dwarven allies on three of four sides and with a great moor separating them from the nation of Littlewood to the south, the Eldrani enjoy a relatively secluded existence. Nevertheless, they still profit from some trade downriver to Littlewood, across the Ice Cap Peaks to Breanne, or simply with their neighbours the dwarves.
-
 ## Hellenia
 The states of **Hellenia** are a loose association of free cities scattered along the coast of a balmy, but arid region. Hellenia's major trade partners are Breanne to the south across the Hellenian Gulf and the dwarves to the west across the Hellenian Savanna. The northern reaches of the savanna eventually give way to the dense jungle of Lelistrel rainforest. The Hellenians are a hedonistic and carefree people, who put great value in their freedom from the oppression of larger powers. In fact, the threat of such an oppressor is one of the few things known to cause various city states to stop squabbling and unite against a common enemy.
-
-## Khazak Ankor
-The dwarven nation of **Khazak Ankor** is
 
 ## Lelistrel
 
