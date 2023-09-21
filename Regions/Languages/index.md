@@ -1,10 +1,11 @@
 ---
 title: Languages in Arden
 parent: Regions
+nav_order: 1
 ---
 
 # Languages in Arden
-In Arden default racial languages do not exist. Instead, languages are regional as in the real world:
+In Arden default racial languages do not exist. Instead, languages are regional, as in the real world:
 
 | Language | Region | Script |
 |:---------|:-------|:-------|
