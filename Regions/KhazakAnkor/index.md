@@ -14,7 +14,7 @@ Most who hail from a mountain hall are lawful, believing firmly in the benefits 
 ### Features
 
 #### Ancestor Worship
-You have trained proficiency with the dwarven history and dwarven religion subskills.
+You gain the dwarven history and dwarven religion subskills.
 
 #### Artisan Trades
 You are trained in the use of one of the following sets of artisan’s tools: [brewer’s supplies](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#brewers-supplies), [mason’s tools](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#masons-tools), or [smith’s tools](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#smiths-tools).
