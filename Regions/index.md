@@ -55,9 +55,6 @@ The states of **Hellenia** are a loose association of free cities scattered alon
 ## Littlewood
 The republic of **Littlewood** is Adrianus's youngest nation and was founded by a cooperative of halflings and gnomes as a safe haven for all of Arden's little folk. The citizens of Littlewood value freedom above all else.
 
-## Necorath
-
-
 ## Ming
 
 
