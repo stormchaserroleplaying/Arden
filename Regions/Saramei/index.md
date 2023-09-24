@@ -10,6 +10,12 @@ The seat of the **Sarameian Empire's** imperial city, Saramei is the oldest and 
 
 ### Features
 
+#### Conscript
+All subjects of the emperor must register for the draft, but many go ahead and serve in the guard. You have trained proficiency with simple weapons. 
+
+#### Imperial Healthcare
+Citizens at the heart of the empire often see more healers and clerics in a year than a remote villager sees in a lifetime. Your medical upkeep has made you resilient. Whenever your stamina maximum or one of your attribute scores would be reduced, it is reduced by half as much instead (minimum 1).
+
 ### Languages
 You speak, read and write Sarameian with native proficiency.
 
