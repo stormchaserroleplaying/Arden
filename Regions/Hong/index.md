@@ -5,7 +5,7 @@ parent: Regions
 
 # Hong
 
-## Honmin Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
+## Hong Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
 ### Features
 
