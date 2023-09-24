@@ -7,8 +7,6 @@ parent: Regions
 
 ## Je'dahnian Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
-### Alignment
-
 ### Features
 
 #### Cultured

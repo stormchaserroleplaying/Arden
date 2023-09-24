@@ -9,7 +9,7 @@ The vast forest of **Eldren** is the sovereign kingdom of the elves. Surrounded 
 ## Eldrani Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
 ### Alignment
-Forest guardians love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
+The Eldrani love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
 
 ### Features
 
