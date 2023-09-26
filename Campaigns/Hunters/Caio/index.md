@@ -2,6 +2,7 @@
 title: Caio Cypherien
 parent: Hunters
 grand_parent: Arden Campaigns
+nav_order: 3
 ---
   
 # Caio Cypherien

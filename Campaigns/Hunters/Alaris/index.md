@@ -2,6 +2,7 @@
 title: Alaris Forien
 parent: Hunters
 grand_parent: Arden Campaigns
+nav_order: 1
 ---
   
 # Bogatyr Alaris Forien

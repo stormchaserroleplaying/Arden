@@ -2,6 +2,7 @@
 title: Astrid Silverscar
 parent: Hunters
 grand_parent: Arden Campaigns
+nav_order: 2
 ---
   
 # Lady Astrid Silverscar

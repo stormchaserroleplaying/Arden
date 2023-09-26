@@ -1,3 +1,10 @@
+---
+title: Devan
+parent: Hunters
+grand_parent: Arden Campaigns
+nav_order: 5
+---
+
 # Devan (Hunter), 1018
 
 ## Wodensday, the 3rd
