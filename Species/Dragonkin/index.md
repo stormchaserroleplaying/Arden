@@ -6,6 +6,9 @@ parent: Species
 # Dragonkin
 Born of dragons, the dragonkin walk proudly through a world that greets them with fearful incomprehension. Some dragonkin are faithful servants to true dragons, others form the ranks of soldiers in great wars and many others find themselves adrift, with no clear calling in life.
 
+## Appearance
+Dragonkin are draconic humanoids that stand erect on two feet, although most lack wings. They are tall and strongly built, often standing close to six-and-a-half feet tall and weighing three hundred pounds or more, with coloured scales that match those of the draconic family from which they are descended. Their hands and feet bear strong, talon-like claws.
+
 ## Age
 Young dragonkin grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3 and reach adulthood by 15. They live to be around 80.
 
