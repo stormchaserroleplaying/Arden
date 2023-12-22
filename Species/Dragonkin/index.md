@@ -22,8 +22,8 @@ Young dragonkin grow quickly. They walk hours after hatching, attain the size an
 | Venerable   | >70 Years       |
 | Maximum Age | 70 + 2d10 Years |
 
-| First Class Talent | Random Starting Age |
-|:------------------:|:-------------------:|
+| Tree of First Talent | Random Starting Age |
+|:--------------------:|:-------------------:|
 | Barbarian, Rogue, Sorcerer and Warlock | 15 + 1d4 (16-19) Years |
 | Bard, Fighter, Paladin and Ranger      | 15 + 1d6 (16-21) Years |
 | Cleric, Druid, Monk and Wizard         | 15 + 2d6 (17-27) Years |
