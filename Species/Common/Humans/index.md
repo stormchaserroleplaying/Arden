@@ -1,7 +1,7 @@
 ---
 title: Humans
-parent: Species
-has_children: true
+parent: Common Species
+grand_parent: Species
 ---
 
 # Humans
@@ -33,3 +33,22 @@ Humans vary widely in height and build, from barely 5 feet to well over 6 feet t
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
 | Male   | 4'10" | +2d10"<br>(5'-6'6")   | 120 lbs. | +(2d10 × 2d4) lbs.<br>(124 – 280 lbs.) |
 | Female | 4'5"  | +2d10"<br>(4'7"-6'1") | 85 lbs.  | +(2d10 × 2d4) lbs.<br>(89 – 245 lbs.)  |
+
+## Phenotypes
+
+### Norscan
+Norscans are a phenotype of touch and powerfully built humans that hail from frozen coastal regions. They are typically tall, blonde-haired and blue-eyed.
+
+#### Attribute Score Increase
+You must pick Strength and Constitution as your species attribute score increases.
+
+#### Frost Born
+You have resistance to cold damage.
+
+#### Size
+Norscans stand slightly taller than most humans, although their size is nevertheless medium.
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+|:------:|:-----------:|:---------------:|:-----------:|:---------------:|
+| Male   | 5 ft.       | +2d10"<br>(5'2"–6'8") | 120 lbs. | +(2d10 × 2d4 lbs.)<br>(124 – 280 lbs.) |
+| Female | 4 ft. 7 in. | +2d10"<br>(4'9"–6'3") | 85 lbs.  | +(2d10 × 2d4 lbs.)<br>(89 – 245 lbs.)  |
