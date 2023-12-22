@@ -1,6 +1,7 @@
 ---
 title: Dragonkin
 parent: Common Species
+grand_parent: Species
 ---
 
 # Dragonkin
