@@ -39,12 +39,6 @@ Humans vary widely in height and build, from barely 5 feet to well over 6 feet t
 ### Norscan
 Norscans are a phenotype of touch and powerfully built humans that hail from frozen coastal regions. They are typically tall, blonde-haired and blue-eyed.
 
-#### Attribute Score Increase
-You must pick Strength and Constitution as your species attribute score increases.
-
-#### Frost Born
-You have resistance to cold damage.
-
 #### Size
 Norscans stand slightly taller than most humans, although their size is nevertheless medium.
 
