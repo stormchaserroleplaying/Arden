@@ -12,8 +12,8 @@ parent: Regions
 #### Corsair
 Norscans are trained in [swimming](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/#swimming), the use of [water vehicles](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Vehicles/) and [simple weapons](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Simple/).
 
-#### Child of the Æsir
-Norscans begin play with the Norscan Religion subskill.
+#### Frost Born
+Norscans are naturally adapted to cold climates.
 
 ### Languages
 You speak, read and write Norscan with native proficiency.
