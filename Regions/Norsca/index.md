@@ -19,3 +19,12 @@ Norscans are naturally adapted to cold climates.
 You speak, read and write Norscan with native proficiency.
 
 Choose Breannian, Khazalid, Littlun, Necran, or Taneman. You speak, read and write this language with accented proficiency.
+
+### Talents
+
+#### Land of the Ice and Snow
+
+<div style="margin-top:-10px;"></div>
+
+##### **Cost:** 5 Character Points<br>**Prerequisite:** Norscan Culture
+You have resistance to cold damage.
