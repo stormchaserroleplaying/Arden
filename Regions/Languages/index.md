@@ -5,7 +5,9 @@ nav_order: 1
 ---
 
 # Languages in Arden
-In Arden default racial languages do not exist. Instead, languages are regional, as in the real world:
+In Arden default racial languages do not exist. Instead, languages are regional, as in the real world.
+
+When your culture grants you one or more languages, you may replace the language listed under the culture with one of the following languages, provided that this is your region of origin or reflects your cultural background.
 
 | Language | Region | Script |
 |:---------|:-------|:-------|
