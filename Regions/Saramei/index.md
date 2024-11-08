@@ -1,6 +1,7 @@
 ---
 title: Saramei
 parent: Regions
+has_children: true
 ---
 
 # Saramei
