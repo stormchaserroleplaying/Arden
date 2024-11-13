@@ -27,19 +27,3 @@ Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant cara
 **End Date:** 13th of July, 2021<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1jpbSNhuzfnxVAY6fNwtTeC7xL4BOOOFSAco_mFCMl_M/edit#gid=0)<br>
 **Thread:** [Sheercleft - Guard Duty](https://discord.com/channels/476843342001602570/840335141308989491)
-
-<script src="https://giscus.app/client.js"
-        data-repo="stormchaserroleplaying/Arden"
-        data-repo-id="R_kgDOH5jn-Q"
-        data-category="Giscus"
-        data-category-id="DIC_kwDOH5jn-c4CkPp-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="transparent_dark"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
