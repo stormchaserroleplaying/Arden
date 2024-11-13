@@ -38,7 +38,7 @@ Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant cara
         data-reactions-enabled="1"
         data-emit-metadata="1"
         data-input-position="top"
-        data-theme="dark"
+        data-theme="transparent_dark"
         data-lang="en"
         crossorigin="anonymous"
         async>
