@@ -6,7 +6,7 @@ parent: Regions
 # Hellenia
 A loose collection of culturally and linguistically related city-states and communities, the philosophy of the **Hellenian states** focusses on the role of reason and inquiry.
 
-## Sarameian Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
+## Hellenian Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
 
 ### Features
 
