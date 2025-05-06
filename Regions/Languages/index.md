@@ -14,7 +14,7 @@ When your culture grants you one or more languages, you may replace the language
 | Ardathian | Ardath | None |
 | Breannian | Breanne | Alban |
 | Eldrani | Eldren | Tengwar |
-| Hellenic | Hellenia | Euclidean |
+| Hellenian | Hellenia | Euclidean |
 | Honmin | Hongming Union | Han |
 | Je'dahnian | Je'dahn | Kanji |
 | Khazalid | Khazak Ankor | Klinkarhun |
