@@ -23,6 +23,8 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest guardians love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers and other creatures as beloved pets.
 
 ### Languages
-You speak, read and write either Eldrani or Sylvan with native proficiency and the other with accented proficiency.
+Choose either Eldrani or Sylvan. You speak, read and write this language with native proficiency.
+
+Choose Khazalid, Littlun, or Sylvan. You speak, read and write this language with accented proficiency.
 
 Eldrani is fluid, with subtle intonations and intricate grammar. Eldrani literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Eldrani ballads to their repertoires.

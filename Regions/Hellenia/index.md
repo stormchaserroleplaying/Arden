@@ -23,4 +23,4 @@ Additionally, select your choice of either the Hellenian lore subskill, or the H
 ### Languages
 You speak, read and write Hellenian with native proficiency.
 
-Choose Breannian, or Khazalid. You speak, read and write this language with accented proficiency.
+Choose Breannian, Lelistreli, or Khazalid. You speak, read and write this language with accented proficiency.
