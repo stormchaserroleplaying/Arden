@@ -21,3 +21,18 @@ Citizens at the heart of the empire often see more healers and clerics in a year
 You speak, read and write Sarameian with native proficiency.
 
 Choose Ardathian, Khazalid, Sanskrit, Taneman, or Xingongese. You speak, read and write this language with accented proficiency.
+
+## Dragonborn Desert Tribe Culture for the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)
+
+### Features
+
+#### Desert Born
+You're naturally adapted to hot climates. Additionally, travelling in hot weather and deserts does not double your required water intake.
+
+#### Natural Philosophers
+You have trained proficiency in the Lore and Nature skills.
+
+### Languages
+You speak, read and write Draconic with native proficiency.
+
+Choose Ardathian, Khazalid, Sanskrit, Sarameian, Taneman, or Xingongese. You speak, read and write this language with accented proficiency.
