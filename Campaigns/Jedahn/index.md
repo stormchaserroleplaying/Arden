@@ -13,4 +13,4 @@ Follow the story of Koide and her Je'dahnian band of monster hunters, as they st
 **Start Date:** 15th of June, 2020<br>
 **End Date:** 13th of August, 2025<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1S63iP3mTCCbFQrudfzjZQJZJuPtr2NRn8nCPp0x_1iA/edit#gid=1756785175)<br>
-**Thread:** [The Chronciles of Arden: Je'dahn](https://discord.com/channels/476843342001602570/722185316370350253)
+**Thread:** [The Chronciles of Arden: Je'dahn](https://stormchaserroleplaying.com/Archive/Jedahn.html)

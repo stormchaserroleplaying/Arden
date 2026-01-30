@@ -13,7 +13,9 @@ Nestled in the mountains of the Ice Cap Peaks, the mining village of Sheercleft 
 **Start Date:** 9th of August, 2018<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1peW8YgN3s2ByIn5E2UX_gbuOIx5VlfRc1F7WYTVH-7I/edit#gid=1756785175)<br>
 **Threads:**
-- [The Chronicles of Arden: Sheercleft](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/22396-the-chronicles-of-arden-sheercleft)
+- [Current Gameplay Thread on the Stormchaser Roleplaying Forum](https://forum.stormchaserroleplaying.com/t/the-chronicles-of-arden-sheercleft/29)
+  - [Original D&D Beyond Thread](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/22396-the-chronicles-of-arden-sheercleft)
+  - [Stormchaser Roleplaying Mirror](https://stormchaserroleplaying.com/Archive/Sheercleft/22396-the-chronicles-of-arden-sheercleft.html)
 - [Sheercleft - Homecoming](https://discord.com/channels/476843342001602570/985843959819546624)
 
 ## Guard Duty
@@ -26,4 +28,4 @@ Jex Blake, one of Sheercleft's new heroes, has gathered together a merchant cara
 **Start Date:** 8th of May, 2021<br>
 **End Date:** 13th of July, 2021<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1jpbSNhuzfnxVAY6fNwtTeC7xL4BOOOFSAco_mFCMl_M/edit#gid=0)<br>
-**Thread:** [Sheercleft - Guard Duty](https://discord.com/channels/476843342001602570/840335141308989491)
+**Thread:** [Sheercleft - Guard Duty](https://stormchaserroleplaying.com/Archive/Sheercleft/GuardDuty.html)

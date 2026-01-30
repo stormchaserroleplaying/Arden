@@ -12,7 +12,10 @@ Dark forests lurk beyond the borders of Tanem's most rural of villages, and the 
 **System:** [Legend in the Mist](https://cityofmist.co/collections/legend-in-the-mist)<br>
 **Start Date:** 28th of January, 2019<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1fMCK9yqHL29H37vBOTO6dmS4jGml6tx0rde16A7WhA4/edit#gid=1786978205)<br>
-**Thread:** [The Chronicles of Arden: Hunters](https://dndbeyond.com/forums/d-d-beyond-general/play-by-post/32262-the-chronicles-of-arden-hunters)<br>
+**Thread:**
+- [Current Gameplay Thread on the Stormchaser Roleplaying Forum](https://forum.stormchaserroleplaying.com/t/the-chronicles-of-arden-hunters/36)
+  - [Original D&D Beyond Thread](https://dndbeyond.com/forums/d-d-beyond-general/play-by-post/32262-the-chronicles-of-arden-hunters)
+  - [Stormchaser Roleplaying Mirror](https://stormchaserroleplaying.com/Archive/Hunters/32262-the-chronicles-of-arden-hunters.html)
 **Adventure Log:** [Calendar](https://stormchaserroleplaying.com/Arden/Campaigns/Hunters/Calendar/)
 
 ## Monthly Logs
