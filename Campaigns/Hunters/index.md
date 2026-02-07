@@ -16,6 +16,8 @@ Dark forests lurk beyond the borders of Tanem's most rural of villages, and the 
 - [Current Gameplay Thread on the Stormchaser Roleplaying Forum](https://forum.stormchaserroleplaying.com/t/the-chronicles-of-arden-hunters/36)
   - [Original D&D Beyond Thread](https://dndbeyond.com/forums/d-d-beyond-general/play-by-post/32262-the-chronicles-of-arden-hunters)
   - [Stormchaser Roleplaying Mirror](https://stormchaserroleplaying.com/Archive/Hunters/32262-the-chronicles-of-arden-hunters.html)
+- [Hunter's After Dark (**NSFW**)](https://stormchaserroleplaying.com/Archive/Hunters/AfterDark.html)
+
 **Adventure Log:** [Calendar](https://stormchaserroleplaying.com/Arden/Campaigns/Hunters/Calendar/)
 
 ## Monthly Logs
