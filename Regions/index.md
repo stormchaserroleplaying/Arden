@@ -62,6 +62,6 @@ The republic of **Littlewood** is Adrianus's youngest nation and was founded by 
 Although steeped in its own history, **Rajan** is well known as the first province to have been annexed by the Sarameian Empire.
 
 ## Tanem
-The youngest acquisition of the Sarameian Empire, **Tanem** is
+The youngest acquisition of the Sarameian Empire, **Tanem** is a cold frontier of black pine forests, ironbound towns and mist-veiled rivers where local traditions endure beneath the banner of Saramei. Annexed only a generation ago after a brutal campaign, the province remains restless and proud. Its people are renowned as hardy woodsmen, miners and cavalry riders, bound by ancient folk rites and old loyalties that the Empire has never fully extinguished.
 
 ## Xingong
